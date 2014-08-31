@@ -1,0 +1,19 @@
+数据库服务器
+服务器：192.168.1.210
+用户名/密码：administrator/zhoushan@123
+数据库
+用户名/密码：sa/sa
+
+应用服务器（环境质量在线，GIS，实验室仪器设备管理）
+地址：内网：192.168.1.11/外网：61.153.210.85-同一服务器
+用户名/密码：administrator / zhoushan!@#$321
+
+GIS服务器
+地址：192.168.1.12
+用户名/密码：administrator/zhoushan@123
+arcGisServer:
+用户名：.\ArcGisWebservices
+密码：zhoushan@123
+
+网站外网平台访问地址：http://61.153.210.85/
+系统测试 帐号/密码：zs/1
